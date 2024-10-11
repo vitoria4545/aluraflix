@@ -1,18 +1,37 @@
 body {
-    color: white;
-    background: black;
+  color: white;
+  background: rgb(247, 4, 4);
+  font-family: "Oswald", sans-serif;
+  margin: 0px;
 }
 
+
 header {
-    border: solid 2px rgb(42, 122, 88);
-    padding: 20px;
-    font-size: 32px;
-    color:rgb(42, 122, 88) ;
+  border: solid 2px rgb(42, 122, 88);
+  padding: 20px;
+  font-size: 32px;
+  color: rgb(42, 122, 88);
 }
 
 section {
-  background-color: 
-
-
-
+  background-color: rgb(104, 20, 115);
+  padding-bottom: 80px;
+  padding: ;
+  justify-content: center;
 }
+
+  chamada-texto {
+    margin-right: 5%;
+
+
+h1 {
+  font-size: 40px;
+}
+p {
+  font-size: :20px;
+}
+
+
+
+
+
