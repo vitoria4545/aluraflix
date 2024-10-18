@@ -3,7 +3,7 @@ body {
   background: rgb(247, 4, 4);
   font-family: "Oswald", sans-serif;
   margin: 0px;
-}
+} margin-bottom: 100px
 
 
 header {
@@ -22,7 +22,7 @@ section {
 
   chamada-texto {
     margin-right: 5%;
-
+    margin-right: ;
 
 h1 {
   font-size: 40px;
@@ -31,6 +31,32 @@ p {
   font-size: :20px;
 }
 
+
+
+ .categoria-videos {
+  displey: flex
+  overflow-x: auto;
+  gap: 10px;
+}
+
+.categoria{
+    padding:-left: 20px
+    padding: right 20px;
+    margin-top:  50px;
+  }
+      
+.categoria-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.categoria-videos img:hover {
+  opacity: 1.0
+  border: 5px solid green;
+
+}
+.categoria h2{
+  color: rgb(42, 122, 228)
 
 
 
